@@ -1,0 +1,141 @@
+body{ margin:0; padding:0; font-size:12px; font-family:"Microsoft YaHei",Arial,Helvetica,sans-serif,"微软雅黑"; }
+div,ul,li,p,form,h1,h2,h3,h4,h5,h6,dt,dd,dl{padding:0;margin:0; font-family:"Microsoft YaHei",Arial,Helvetica,sans-serif,"微软雅黑";font-weight: normal;font-size: 0.8rem;}
+a{ text-decoration:none; color:#000;}
+img{ border:none; vertical-align: middle}
+ul,li{ list-style:none;}
+*{ margin:0; padding:0;}
+input[type=button],input[type=search]{
+  -webkit-appearance:none;
+  outline:none
+}
+.wrapper{
+  margin: 0 auto;
+}
+
+body{
+  height: 50000px;
+}
+
+
+/*start*/
+.container{width: 100%;
+  background: url(../images/big_bj.png) no-repeat top center;
+  background-size: 100%;
+  height: 100%;
+}
+
+
+
+
+/*top start*/
+.top .top-logo{
+  width: 6.07rem;
+}
+.top .top-logo img{
+  width: 100%;
+}
+.top .top-wz{
+  width: 15.87rem;
+  margin-top: 1.73rem;
+}
+.top .top-wz img{
+  width: 100%;
+}
+
+
+/*daojishi*/
+.djs .djs-box b{
+  font-size: 3.39rem;
+  margin-right:1.3rem ;
+}
+.djs .djs-box{
+  overflow: hidden;
+}
+.djs .djs-box div{
+  float: left;
+}
+.djs .djs-box div.djs-box-day{
+  margin-left: 5.5rem ;
+  margin-right: 1.45rem;
+}
+
+/*大锦鲤 start*/
+
+.djl-title{
+  font-size: 1.33rem;
+  font-weight: bold;
+  color: white;
+  margin-left: 1rem;
+}
+.djl-time {
+  font-size: 0.93rem;
+  color: white;
+  margin-top: 0.3rem;
+  display: block;
+}
+
+.djl-content h3{
+  width: 15rem;
+  height: 1.43rem;
+  line-height: 1.43rem;
+  font-size: 1.33rem;
+  color: white;
+  margin-top: 3rem;
+  text-align: center;
+  font-weight: bold;
+  background: url("../images/djl_con_tbj.png") no-repeat;
+  background-size: 100%;
+}
+.djl-content h3 span{
+  color: #fff600;
+}
+.djl-content div.djl-x{
+  width: 19.63rem;
+  height: 6.57rem;
+  background: url("../images/xjhb.png") no-repeat;
+  background-size: contain;
+  margin-top: 1.5rem;
+}
+
+.jp1-2{
+  overflow: hidden;
+  margin-left: 2.7rem;
+  margin-top: 1.5rem;
+}
+.jp1-2 li{
+  width: 9.53rem;
+  float: left;
+  margin-right: 0.57rem;
+}
+.jp1-2 li img{
+  width: 100%;
+}
+.jp3-4{
+  overflow: hidden;
+  margin-left: 2.7rem ;
+  margin-top: 0.67rem;
+}
+.jp3-4 li{
+  width:5.47rem ;
+  margin-right: 0.65rem;
+  float: left;
+}
+.jp3-4 li img{
+  width: 100%;
+}
+.jp5{
+  width: 11.5rem;
+  margin-left: 2.7rem;
+  margin-top: 0.67rem;
+}
+.jp5 img{
+  width: 100%;
+}
+.jp6{
+  width: 7.23rem;
+  position: absolute;
+  
+}
+.jp6 img{
+  width: 100%;
+}
